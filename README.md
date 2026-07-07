@@ -7,26 +7,40 @@
 ## 📸 应用截图 (Screenshots)
 
 ### 主界面预览 (Main Interface)
+
 <p align="center">
-  <img src="Screenshots/dockpad-main-1.png" width="45%" />
-  <img src="Screenshots/dockpad-main-2.png" width="45%" />
+  <img src="Screenshots/dockpad-main-1.png" width="80%" />
 </p>
+
 <p align="center">
-  <img src="Screenshots/dockpad-main-3.png" width="45%" />
-  <img src="Screenshots/dockpad-main-4.png" width="45%" />
+  <img src="Screenshots/dockpad-main-2.png" width="80%" />
 </p>
+
 <p align="center">
-  <img src="Screenshots/dockpad-main-5.png" width="45%" />
+  <img src="Screenshots/dockpad-main-3.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/dockpad-main-4.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/dockpad-main-5.png" width="80%" />
 </p>
 
 ### 设置与偏好 (Settings & Configuration)
+
 <p align="center">
-  <img src="Screenshots/dockpad-setting-1.png" width="45%" />
-  <img src="Screenshots/dockpad-setting-2.png" width="45%" />
+  <img src="Screenshots/dockpad-setting-1.png" width="80%" />
 </p>
+
 <p align="center">
-  <img src="Screenshots/dockpad-setting-3.png" width="45%" />
-  <img src="Screenshots/dockpad-setting-4.png" width="45%" />
+  <img src="Screenshots/dockpad-setting-2.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/dockpad-setting-3.png" width="30%" />
+  <img src="Screenshots/dockpad-setting-4.png" width="30%" />
 </p>
 
 ---
@@ -51,4 +65,4 @@
 
 ## 📄 开源协议
 
-本项目基于 [MIT License](LICENSE) 协议开源。
+本项目基于 [GPL-3.0 License](LICENSE) 协议开源。
