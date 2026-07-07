@@ -11,37 +11,45 @@
 <p align="center">
   <img src="Screenshots/dockpad-main-1.png" width="80%" />
 </p>
+<p align="center"><em>应用分组：支持将多个应用折叠为单行列表展现</em></p>
 
 <p align="center">
   <img src="Screenshots/dockpad-main-2.png" width="80%" />
 </p>
+<p align="center"><em>便捷管理：支持一键快速移除分类文件夹</em></p>
 
 <p align="center">
   <img src="Screenshots/dockpad-main-3.png" width="80%" />
 </p>
+<p align="center"><em>隐私保护：支持从启动台（Launchpad）中动态隐藏指定应用</em></p>
 
 <p align="center">
   <img src="Screenshots/dockpad-main-4.png" width="80%" />
 </p>
+<p align="center"><em>自由组合：支持点选应用灵活创建全新的文件夹列表</em></p>
 
 <p align="center">
   <img src="Screenshots/dockpad-main-5.png" width="80%" />
 </p>
+<p align="center"><em>主面板全景预览</em></p>
 
 ### 设置与偏好 (Settings & Configuration)
 
 <p align="center">
   <img src="Screenshots/dockpad-setting-1.png" width="80%" />
 </p>
+<p align="center"><em>远程协作优化：在使用远程桌面时，可通过调度中心（Mission Control）功能实现多桌面无缝切换</em></p>
 
 <p align="center">
   <img src="Screenshots/dockpad-setting-2.png" width="80%" />
 </p>
+<p align="center"><em>高级触发配置：支持在 Dock 栏和系统状态栏显示应用图标，并通过自定义鼠标左键单击行为实现不同的快捷功能</em></p>
 
 <p align="center">
   <img src="Screenshots/dockpad-setting-3.png" width="30%" />
   <img src="Screenshots/dockpad-setting-4.png" width="30%" />
 </p>
+<p align="center"><em>快捷偏好设置</em></p>
 
 ---
 
